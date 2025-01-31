@@ -1,4 +1,4 @@
-# GRAFKOM
+# UAS GRAFKOM Auditorium GSG
 # File bisa di download pada branch master
 # Nama & Nrp :
 - Nathanael Kanaya Chriesman - 2272018
