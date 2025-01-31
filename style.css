@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+canvas {
+    display: block;
+}
+
+#youtube-iframe {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 1000px; /* Sesuaikan dengan ukuran layar LED */
+    height: 500px; /* Sesuaikan dengan ukuran layar LED */
+    border: none;
+}
